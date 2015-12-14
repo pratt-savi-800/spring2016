@@ -12,7 +12,7 @@ project-link:
     - href:  https://bernardol.cartodb.com/viz/593b7c54-9d25-11e5-9244-0ecd1babdde5/public_map
 embed-link:
 tags: education, schools, social justice
-thumbnail-path: ../../img/bernardo/1.jpg
+thumbnail-path: img/bernardo/1.jpg
 img-folder: ../../img/bernardo/
 timestamp: 12/14/2015 16:31:48
 ---
