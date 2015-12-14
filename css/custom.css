@@ -34,8 +34,8 @@
 }
 .main-img {
   margin-bottom: 20px;
-  width: 100%;
 }
+
 .full-width {
   width: 100%;
 }
@@ -54,6 +54,9 @@
 .cover-container {
   margin-right: auto;
   margin-left: auto;
+}
+div.cover-container img {
+  width: 100%;
 }
 
 /* Padding for spacing */

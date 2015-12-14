@@ -21,13 +21,17 @@
         <div class="header">
           <h1>{{ page.title }}</h1>
           <h4>{{ page.location }}</h4>
-          <h4>{{ page.tagline }}</h4>
+          <h5>{{ page.tags }}</h5>
           <img class="main-img" src="{{ page.thumbnail-path }}"/>
-          <p class="lead">{{ page.short-description }}</p>
+          <p class="lead">{{ page.tagline }}</p>
         </div>
-
-
         {{ content }}
+        <ul>
+          <h5>Link to full project:</h5>
+          {% for link in page.project-link %}
+          <li><a href="{{ link.href }}" target="_blank">{{ link.href }}</a></li>
+          {% endfor %}
+        </ul>
       </div>
     </div>
 
