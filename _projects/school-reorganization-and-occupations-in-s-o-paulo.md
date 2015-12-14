@@ -12,8 +12,8 @@ project-link:
     - href:  https://bernardol.cartodb.com/viz/593b7c54-9d25-11e5-9244-0ecd1babdde5/public_map
 embed-link:
 tags: education, schools, social justice
-thumbnail-path: ../../img/Bernardo/1.jpg
-img-folder: ../../img/Bernardo/
+thumbnail-path: ../../img/bernardo/1.jpg
+img-folder: ../../img/bernardo/
 timestamp: 12/14/2015 16:31:48
 ---
 In October 2015, the São Paulo State government in Brazil announced it was "reorganizing" the state's public schools, starting beginning of 2016. As a result of this reorganization, almost 300,000 students would have to compulsorily change schools; more than 1,400 schools would be affected; and 94 schools would be closed.
