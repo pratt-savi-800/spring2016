@@ -9,7 +9,7 @@
   <nav class="navbar navbar-default navbar-fixed-top">
     <div class="cover-container">
       <a class="navbar-brand" href="{{ site.url }}">Methods 3 – Fall 2015</a>
-      <a class="navbar-brand" href="{{ site.url }}about.html">About</a>
+      <a class="navbar-brand" href="about">About</a>
     </div>
   </nav>
 
@@ -20,18 +20,8 @@
 
         <div class="header">
           <h1>{{ page.title }}</h1>
-          <h4>{{ page.location }}</h4>
-          <h5>{{ page.tags }}</h5>
-          <img class="main-img" src="../../{{ page.thumbnail-path }}"/>
-          <p class="lead">{{ page.tagline }}</p>
         </div>
         {{ content }}
-        <ul>
-          <h5>Link to full project:</h5>
-          {% for link in page.project-link %}
-          <li><a href="{{ link.href }}" target="_blank">Link {{ forloop.index }} - {{ link.href | remove:'http://' | remove: 'https://' | split: '/'[1]}}</a></li>
-          {% endfor %}
-        </ul>
       </div>
     </div>
 
