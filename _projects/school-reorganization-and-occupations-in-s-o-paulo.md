@@ -40,14 +40,14 @@ To find out which schools were being closed I used a list from a news article. T
 
 With this data, I produced two maps, showing the schools that were being closed and the ones being closed and reorganized. I also calculated the averages of students per class in each school, to show how currently the schools are already overcrowded.
 
-![]({{ page.img-folder }}7.png)
+<iframe width="100%" height="520" frameborder="0" src="https://bernardol.cartodb.com/viz/0ecf075a-9d1e-11e5-b8eb-0e31c9be1b51/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-![]({{ page.img-folder }}8.png)
+<iframe width="100%" height="520" frameborder="0" src="https://bernardol.cartodb.com/viz/3d07b49c-9d1d-11e5-b07a-0e5db1731f59/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 I tried to find correlations between demographics and the schools being closed, to understand the reasons why these particular schools were being closed. For this, I imported census data and layered it into the maps, this time only for the city of São Paulo, not the state, because of the size of the datasets. I produced two more maps, trying to find a pattern in relation to population income and population in school age.
 
-![]({{ page.img-folder }}9.png)
+<iframe width="100%" height="520" frameborder="0" src="https://bernardol.cartodb.com/viz/9ff09a66-9628-11e5-8f0f-0e674067d321/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-![]({{ page.img-folder }}10.png)
+<iframe width="100%" height="520" frameborder="0" src="https://bernardol.cartodb.com/viz/593b7c54-9d25-11e5-9244-0ecd1babdde5/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 Though no discernible pattern seems to emerge from these maps in relation to the school closings, it is interesting to see the social disparity in the city of São Paulo manifested spatially. As many authors have argued in the past, São Paulo is a city in which high income population is concentrated in the city center, and income falls as distance increases from the center. Another interesting aspect revealed was that age seems to fall a similar pattern, in which there are more school age population towards the periphery of the city.
