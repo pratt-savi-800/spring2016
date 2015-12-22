@@ -15,7 +15,7 @@ tags:
     - tag:  awareness
     - tag:  education
     - tag:  resource
-thumbnail-path: ../../img/why-do-people-move-mapping-a-brief-history-of-migration/YXuyw6J.jpg
+thumbnail-path: img/why-do-people-move-mapping-a-brief-history-of-migration/YXuyw6J.jpg
 img-folder: ../../img/why-do-people-move-mapping-a-brief-history-of-migration/
 timestamp: 12/22/2015 7:40:48
 ---

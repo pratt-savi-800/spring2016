@@ -15,11 +15,11 @@ tags:
     - tag:  Brazil
     - tag:  Brasilia
     - tag:  
-thumbnail-path: ../../img/how-to-visualize-social-spatial-segregation-/cmEGswq.jpg
+thumbnail-path: img/how-to-visualize-social-spatial-segregation-/cmEGswq.jpg
 img-folder: ../../img/how-to-visualize-social-spatial-segregation-/
 timestamp: 12/21/2015 16:41:52
 ---
-Brasilia was built to be the capital of Brazil and part of a plan to occupy the interior of the country once that since the colonization period the territory was mainly occupied on the coast. The main core of the city was planned and built accordingly to Lucio Costa’s urban design project, which followed Le Corbusier’s concepts and the CIAM (Congrès Internationaux d’Architecture Moderne) manifestos. The Pilot Plan of Brasilia was constructed by a labor force that could never afford living there. 
+Brasilia was built to be the capital of Brazil and part of a plan to occupy the interior of the country once that since the colonization period the territory was mainly occupied on the coast. The main core of the city was planned and built accordingly to Lucio Costa’s urban design project, which followed Le Corbusier’s concepts and the CIAM (Congrès Internationaux d’Architecture Moderne) manifestos. The Pilot Plan of Brasilia was constructed by a labor force that could never afford living there.
 
 
 ![]({{ page.img-folder }}qLb2rvS.jpg)
@@ -31,7 +31,7 @@ The dichotomy between Pilot Plan and Satellite Town is too simplistic to define 
 ![]({{ page.img-folder }}amfZuN9.jpg)
 Photo: Sol Nascente, Ceilandia. By Joana França.
 
-Nowadays, Brasilia is the fourth most populated city in the country and is a scenario of segregation of communities in the urban space, especially related to educational and economic aspects. This phenomenon contrasts with the utopia behind the idealization of the city, that supposedly was going to  reflect the flourishing future of the country, and as soon as possible the city has turned to be another sad reflection of the deep inequalities in Brazil. 
+Nowadays, Brasilia is the fourth most populated city in the country and is a scenario of segregation of communities in the urban space, especially related to educational and economic aspects. This phenomenon contrasts with the utopia behind the idealization of the city, that supposedly was going to  reflect the flourishing future of the country, and as soon as possible the city has turned to be another sad reflection of the deep inequalities in Brazil.
 
 ![]({{ page.img-folder }}Sl45l8d.jpg)
 Photo: Estrutural. By Joana França.
@@ -53,5 +53,3 @@ Above this box the layers can be turned on and off, relating the density, income
 
 
 The second map was inspired on the American Racial Dot Map. The blue points represent residents who declare themselves as white, the orange dots represent residents who declare themselves as brown and the red dots are the residents who declare their race as black. The relation between race and urban land/density gets clearer.
-
-https://api.mapbox.com/styles/v1/maribomtempo/cihi5twog00sl4llztnd9ep51.html?title=true&access_token=pk.eyJ1IjoibWFyaWJvbXRlbXBvIiwiYSI6ImNpZ2IzYmg1czFvMDF1dWx4MGlkYXhoNnUifQ.MASXWg9kzNYMgKUtafLeXw#12.110545775809522/-15.843777523137618/-47.96266630341941/0

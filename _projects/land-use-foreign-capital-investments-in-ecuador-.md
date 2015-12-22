@@ -15,7 +15,7 @@ tags:
     - tag:  Agriculture
     - tag:  Development
     - tag:  Ecuador 
-thumbnail-path: ../../img/land-use-foreign-capital-investments-in-ecuador-/tKr65rX.png
+thumbnail-path: img/land-use-foreign-capital-investments-in-ecuador-/tKr65rX.png
 img-folder: ../../img/land-use-foreign-capital-investments-in-ecuador-/
 timestamp: 12/21/2015 19:31:03
 ---

@@ -29,7 +29,7 @@ tags:
     - tag: vacant
     - tag: demolished
     - tag: vaudeville
-thumbnail-path: ../../img/bushwick-s-historic-theaters-performance-access-equity/VqsVNbD.png
+thumbnail-path: img/bushwick-s-historic-theaters-performance-access-equity/VqsVNbD.png
 img-folder: ../../img/bushwick-s-historic-theaters-performance-access-equity/
 timestamp: 12/21/2015 21:35:15
 ---

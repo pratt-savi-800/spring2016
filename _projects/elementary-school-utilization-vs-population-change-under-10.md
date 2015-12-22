@@ -17,7 +17,7 @@ tags:
     - tag:  segregation
     - tag:  integration
     - tag:  gentrification
-thumbnail-path: ../../img/elementary-school-utilization-vs-population-change-under-10/K8qjSKg.jpg
+thumbnail-path: img/elementary-school-utilization-vs-population-change-under-10/K8qjSKg.jpg
 img-folder: ../../img/elementary-school-utilization-vs-population-change-under-10/
 timestamp: 12/21/2015 17:45:59
 ---

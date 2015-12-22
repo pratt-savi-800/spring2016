@@ -14,7 +14,7 @@ tags:
     - tag:  waste
     - tag:  landfills
     - tag:  history
-thumbnail-path: ../../img/new-york-city-is-built-on-trash/RG0jpMq.jpg
+thumbnail-path: img/new-york-city-is-built-on-trash/RG0jpMq.jpg
 img-folder: ../../img/new-york-city-is-built-on-trash/
 timestamp: 12/22/2015 0:48:35
 ---

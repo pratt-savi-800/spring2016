@@ -10,7 +10,7 @@ project-link:
     - href: http://bl.ocks.org/anonymous/raw/6993e6b0e42df01853f2/
 tags:
     - tag: Gardiner, Expressway, Toronto, Tent, City, Inclusionary, Zoning, Frederick, Hybrid, Boulevard
-thumbnail-path: ../../img/housing-and-the-gardiner/BdO2cK7.jpg
+thumbnail-path: img/housing-and-the-gardiner/BdO2cK7.jpg
 img-folder: ../../img/housing-and-the-gardiner/
 timestamp: 12/22/2015 10:35:51
 ---
