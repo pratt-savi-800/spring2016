@@ -8,7 +8,15 @@ title: "Methods 3 – Fall 2015 – Student Projects"
     <h4><a href="projects/{{ projects.linkname }}">{{ projects.title }}</a></h4>
     <a href="projects/{{ projects.linkname }}"><div class="ratio" style="background-image:url('{{ projects.thumbnail-path }}')">
     </div></a>
-    <h5>{{ projects.location}}</h5>
+    <h5>
+      {% for place in projects.location %}
+        {% if forloop.last == true %}
+        <span>{{ place.place }}</span>
+        {% else %}
+        <span>{{ place.place }};</span>
+        {% endif %}
+      {% endfor %}
+    </h5>
     <p>{{ projects.tagline }}</p>
   </div>
   {% endfor %}
@@ -19,7 +27,15 @@ title: "Methods 3 – Fall 2015 – Student Projects"
     <h4><a href="projects/{{ projects.linkname }}">{{ projects.title }}</a></h4>
     <a href="projects/{{ projects.linkname }}"><div class="ratio" style="background-image:url('{{ projects.thumbnail-path }}')">
     </div></a>
-    <h5>{{ projects.location}}</h5>
+    <h5>
+      {% for place in projects.location %}
+        {% if forloop.last == true %}
+        <span>{{ place.place }}</span>
+        {% else %}
+        <span>{{ place.place }};</span>
+        {% endif %}
+      {% endfor %}
+    </h5>
     <p>{{ projects.tagline }}</p>
   </div>
   {% endfor %}
@@ -30,7 +46,15 @@ title: "Methods 3 – Fall 2015 – Student Projects"
     <h4><a href="projects/{{ projects.linkname }}">{{ projects.title }}</a></h4>
     <a href="projects/{{ projects.linkname }}"><div class="ratio" style="background-image:url('{{ projects.thumbnail-path }}')">
     </div></a>
-    <h5>{{ projects.location}}</h5>
+    <h5>
+      {% for place in projects.location %}
+        {% if forloop.last == true %}
+        <span>{{ place.place }}</span>
+        {% else %}
+        <span>{{ place.place }};</span>
+        {% endif %}
+      {% endfor %}
+    </h5>
     <p>{{ projects.tagline }}</p>
   </div>
   {% endfor %}
