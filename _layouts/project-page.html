@@ -40,7 +40,7 @@
         <ul>
           <h5>Link(s) to full project:</h5>
           {% for link in page.project-link %}
-          <li><a href="{{ link.href }}" target="_blank">Link {{ forloop.index }} - {{ link.href | remove:'http://' | remove: 'https://' | split: '/'[1]}}</a></li>
+          <li><a href="{{ link.href }}" target="_blank">Link {{ forloop.index }} - {{ link.href | remove:'http://' | remove: 'https://' }}</a></li>
           {% endfor %}
         </ul>
       </div>

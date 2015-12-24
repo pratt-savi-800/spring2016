@@ -3,8 +3,16 @@
 <head>
   <meta charset="utf-8">
   {% include head.html %}
+  <link rel="stylesheet" href="{{ "css/navbar.css" | prepend: site.url }}">
 </head>
 <body>
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="{{ site.url }}">Methods 3 – Fall 2015</a>
+      <a class="navbar-brand" href="{{ site.url }}about.html">About</a>
+    </div>
+  </nav>
+
   <div id="main" class="container">
 
     <div class="header">

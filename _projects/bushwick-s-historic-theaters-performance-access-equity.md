@@ -48,7 +48,7 @@ After processing this data with Microsoft Excel, I generated some static maps:
 
 ![]({{ page.img-folder }}Pt9NloZ.png)
 
-To theorize the Performance Access Equity, I mixed the venue data with census data. 
+To theorize the Performance Access Equity, I mixed the venue data with census data.
 
 ![]({{ page.img-folder }}4Nlq2OA.png)
 
