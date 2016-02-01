@@ -8,7 +8,7 @@ location:
     - place: Brasilia, Brazil
 project-link:
     - href: https://robem470.cartodb.com/viz/e79f94da-9d2f-11e5-8a0d-0e787de82d45/map
-    - href:    https://api.mapbox.com/styles/v1/maribomtempo/cihi5twog00sl4llztnd9ep51.html?title=true&access_token=pk.eyJ1IjoibWFyaWJvbXRlbXBvIiwiYSI6ImNpZ2IzYmg1czFvMDF1dWx4MGlkYXhoNnUifQ.MASXWg9kzNYMgKUtafLeXw#12.11/-15.8771/-47.9649
+    - href: http://bit.ly/1JTXNRb
 tags:
     - tag: Segregation
     - tag:  Right to the City
