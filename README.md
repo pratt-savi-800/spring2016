@@ -1,6 +1,6 @@
-# class-projects-template
+# savi800-spring2016
 
-A Jekyll site for a class final projects site.
+A site for SAVI 800's final projects.
 
 ## Credits
 
