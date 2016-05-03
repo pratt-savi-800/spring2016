@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   {% include head.html %}
-  <link rel="stylesheet" href="{{ "css/navbar.css" | prepend: site.url }}">
+  <link rel="stylesheet" href="{{ "css/navbar.css" | prepend: site.baseurl }}">
 </head>
 <body>
   <nav class="navbar navbar-default navbar-fixed-top">
     <div class="cover-container">
-      <a class="navbar-brand" href="{{ site.url }}">{{ site.class.short }} – {{ site.class.term }}</a>
+      <a class="navbar-brand" href="{{ site.baseurl }}">{{ site.class.short }} – {{ site.class.term }}</a>
       <a class="navbar-brand" href="about">About</a>
     </div>
   </nav>
