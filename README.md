@@ -1,4 +1,4 @@
-# savi800-spring2016
+# spring2016
 
 A site for SAVI 800's final projects.
 

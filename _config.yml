@@ -17,7 +17,7 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   DESCRIPTION
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://pratt-savi.github.io/savi800-spring2016/
+url: http://pratt-savi-800.github.io/spring2016/
 twitter_username: PrattSAVI
 github_username: pratt-savi
 
