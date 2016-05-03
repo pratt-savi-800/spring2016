@@ -18,7 +18,11 @@
     <div class="header">
       <h1>{{ site.class.short }} – {{ site.class.term }} – Student Projects</h1>
       <p class="lead">
-      Final projects for <a href="{{ site.class.link }}" target="_blank">{{ site.class.long }}</a>.
+      {% if site.class.link %}
+        Final projects for <a href="{{ site.class.link }}" target="_blank">{{ site.class.long }}</a>.
+      {% else %}
+        Final projects for {{ site.class.long }}.
+      {% endif %}
       </p>
       <hr>
     </div>
