@@ -1,6 +1,6 @@
 # spring2016
 
-A site for SAVI 800's final projects.
+A site for SAVI 800's final projects for the Spring 2016 term.
 
 ## Credits
 
