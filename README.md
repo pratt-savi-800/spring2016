@@ -1,2 +1,3 @@
-# methods3-fall2015
-Website for Methods 3 Fall 2015 student projects
+# class-projects-template
+
+A Jekyll site for a class final projects site.
