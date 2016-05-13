@@ -47,6 +47,7 @@ Screen shot of Brooklyn Odd Lots 2016
 I also created a map that uses an api to get a street view of each lot address-- this map is kind of a placeholder for now. I used another project and got it as far as getting the code to work. However, a better way to see what is going on on these lots would be to link each lot to an aerial view. I'd like to do this by creating a linked inset map that shows a satelite view. A plugin for this leaflet minimap can be found at: https://github.com/Norkart/Leaflet-MiniMap. I am not yet sure if I'll be able to use this within the cartodb.vis context but will try outside of the class. 
 
 img/eichner_oddlots/streetview.png
+
 link to that map here: http://eichners.github.io/FinalProject_oddlots/StoryMap/streetView_oddLots/streetView_oddlots.html
 
 code files here: https://github.com/eichners/FINAL_PROJECT.git
