@@ -1,7 +1,7 @@
 ---
 layout: project-page
 title: "Aircraft Cockpit Laser Illumination Incidents 2010–2015"
-linkname: FAA Laser Incidents-project
+linkname: ajack_faa-laser-data
 author: "ac jack"
 tagline: "This map looks at the number of Laser-pointer cockpit illumination by state."
 location:
@@ -11,6 +11,8 @@ project-link:
 tags:
     - tag: FAA, Laser, Pointer, Aircraft
 timestamp: 05/15/2015 16:30:00
+thumbnail-path: img/acjack_faa_laser-data/faa_laser_incidents.jpg
+img-folder: ../../img/acjack_faa_laser-data/
 ---
 
 Interactive Map of Aircraft Cockpit Laser Illuminations (2010–2015)
@@ -28,6 +30,3 @@ Data is housed in CartoDB (via DropBox csv), and used to create this Leaflet map
 I used “Turf.js” in creating the thematic layer indication the states’ incident count.
 The incident count is at the city level and not a specific airport or lat-lng. 
 Laser incidents are clustered (via a Leaflet plug-in).
-
-
-
