@@ -15,12 +15,19 @@ img-folder: ../../img/nyc-subway-entrances-map/
 timestamp: 12/21/2015 21:35:15
 ---
 
-There are many subway entrances in NYC. However, these entrances are not shown in Google Map. Google Map only shows station location. Therefore, I made a leaflet map showing all the entrances in NYC and this map also provides the function of nearby entrances search.
+There are many subway entrances in NYC. However, these entrances are not shown in Google Map. Google Map only shows station location. Therefore, I made a leaflet responsive map showing all the entrances in NYC, and this map also provides the function of nearby entrances search.
 
-Donec nunc justo, egestas eu tortor quis, tincidunt euismod ligula. Praesent imperdiet, quam in vulputate porta, ante sapien egestas risus, nec auctor risus est nec elit. Duis nec congue sapien, vel tristique urna. In vitae urna eget tortor volutpat aliquam quis eu dolor. Vivamus ac dui pulvinar, sodales mi eget, tempor sem. Suspendisse blandit ipsum sit amet ex aliquet pellentesque. Etiam ultricies lacus eu elit mattis bibendum. Duis ut est at nisi iaculis tristique quis at ante.
+![]({{ page.img-folder }}nyc-subway-entrances-map.png)
 
-![]({{ page.img-folder }}img2.png)
+After typing an address in the search box, the map shows all the nearby entrances (entrances within 2km). Clicking on an entrance, the information of the entrance shows on the left content box, including the location of entrance, type of entrance, line, route ... etc. The 'GET DIRECTION' link will redirect user to the google map and locate the exact location in google map.
+![]({{ page.img-folder }}search.png)
 
-Donec volutpat nulla egestas, ultricies leo a, imperdiet libero. Proin at lacinia eros. Integer augue mi, molestie id leo vel, eleifend molestie ex. Donec vulputate turpis vitae elementum commodo. Phasellus at elementum mauris. Mauris nulla massa, elementum non pretium at, porttitor quis dolor. Etiam at congue nisi. Vestibulum felis justo, ultricies in metus vitae, faucibus egestas ligula. Maecenas ac ex condimentum, condimentum felis vitae, auctor lectus. Vivamus et quam id ex aliquam consectetur. Donec non facilisis nisi. Etiam sit amet purus id tortor pulvinar fermentum in eget augue.
+Below the search box, there are four buttons to provide filtering. First one (subway icon) is showing all the subway entrances. Second one (wheelchair icon) showing entrances providing ADA. Third one (dollar icon) is showing entrances having vending machine. And the last one (help icon) is showing entrances having full-time staff. User can click two or more to have multiple filtering, for example, clicking on the dollar icon and help icon will show entrances having vending machine and full-time staff. Mouseover for two minutes will give some hint about what this icon for. 
 
-Maecenas luctus suscipit porttitor. Aenean mattis a lorem ac lobortis. Morbi at neque ut tortor mollis lobortis vel eget ex. Donec quis pretium massa. Nunc ac urna sem. Vestibulum lobortis ultricies luctus. Fusce consequat tortor at fringilla blandit. Vestibulum consequat ante tellus, a porta est facilisis eget. Morbi et ullamcorper sem. Ut tempus dolor a accumsan rutrum. Nam in arcu et elit efficitur tempus.
+![]({{ page.img-folder }}filtering.png)
+
+This is responsive map. It also can be used in the mobile. For mobile device, because the screen is smaller, I remove some function so user can focus on the function of search.
+
+![]({{ page.img-folder }}mobile.png)
+
+That map is [here](http://jeanpan.github.io/nyc-subway-entrances-map/), and the code is on [GitHub](https://github.com/jeanpan/nyc-subway-entrances-map).
