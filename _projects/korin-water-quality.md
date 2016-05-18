@@ -7,7 +7,7 @@ tagline: Water quality sampling results from 2015 from city and citizen scientis
 location:
     - place: New York, NY, USA
 project-link:
-    - href: korinrue.github.io/OSAmap 
+    - href: http://korinrue.github.io/OSAmap 
 tags:
     - tag: water quality, nyc harbor 
 thumbnail-path: img/korin-water-quality/img0.jpg
