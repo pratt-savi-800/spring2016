@@ -10,7 +10,7 @@ project-link:
     - href: http://czirkel.github.io/FinalPresentation/
 tags:
     - tag: music festival, music, festival
-thumbnail-path: img/czirkel_musicfestivals/festivals_all.png
+thumbnail-path: img/festivals_all.png
 img-folder: ../../img/czirkel_musicfestivals
 timestamp: 05/17/2016 10:23:15
 ---
